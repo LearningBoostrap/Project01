@@ -1,0 +1,15 @@
+.form-group, .btn{
+  margin-left: 2rem;
+  margin-top: 1rem;
+  max-width: 30rem;
+}
+.card-img-top {
+  max-height: 18rem;
+}
+.btn {
+  margin-bottom: 1rem;
+}
+i {
+  font-size: 2.5rem;
+  margin-left: 0.5rem;
+}
